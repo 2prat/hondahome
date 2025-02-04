@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/man-buys-honda-civic-using-btc",
+      "destination": "https://notax-omega.vercel.app/"
+    }
+  ]
+}
