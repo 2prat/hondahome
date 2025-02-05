@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/man-buys-honda-civic-using-btc",
+      "source": "/man-pays-two-btc-for-hand-job",
       "destination": "https://hondarticle.vercel.app/"
     }
   ]
